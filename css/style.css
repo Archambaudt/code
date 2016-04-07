@@ -1,0 +1,238 @@
+html, body {
+	background-color:#ffffff;
+	height:100%;
+	margin:0;
+	padding:0;
+}
+
+.header {
+	text-align: center;
+	color: #ffffff;
+	font-family: 'Lato', sans-serif;
+	background: url(../img/background.png) no-repeat top center;
+    background-position-x: 50%;
+    background-position-y: 0%;
+    background-size: cover;
+    background-repeat-x: no-repeat;
+    background-repeat-y: no-repeat;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+	}
+
+.header h1 {
+	font-size:48px;
+	padding-top:15%;
+}
+
+.header p {
+font-size: 24px;
+line-height: 1;
+}
+
+.icone {
+	padding: 10%;
+}
+
+.corps1 {
+	background: url(../img/cadre2.PNG) no-repeat;
+	background-position: center;
+	background-size: 90%;
+    min-height: 100%;
+    position:relative;
+    padding:10%;
+    margin:5%;
+}
+
+.corps1 h2 {
+	font-size:42px;
+	font-family: 'Lato', sans-serif;
+	color:#000000;
+	text-align:center;
+	margin-top:-4%;
+	padding-bottom:2%;
+
+}
+
+.corps1 p{
+	font-size:18px;
+	font-family:'Lato', sans-serif;
+	color:#000000;
+	text-align:center;
+	line-height: 2;
+}
+
+.corps2 {
+	background: url(../img/smart-watch.jpg) no-repeat center center;
+	background-size:cover;
+    min-height: 100%;
+    position:relative;
+}
+
+.corps2bis {
+	background: url(../cadre2bis.png) no-repeat center center;
+	background-size:cover;
+}
+
+
+.corps2 h2 {
+	font-size:42px;
+	font-family: 'Lato', sans-serif;
+	color:#000000;
+	text-align:center;
+	padding-top:5%;
+	padding-bottom:3%;
+	color:#ffffff;
+}
+
+.corps2 p {
+	font-size:18px;
+	font-family:'Lato', sans-serif;
+	color:#000000;
+	text-align:center;
+	color:#ffffff;
+	padding-bottom:3%;
+}
+
+.corps3 {
+	background: url(../img/cadre3.PNG) no-repeat center center;
+	background-position: center;
+	background-size: 70%;
+    position:relative;
+    padding:5%;
+    margin:10%;
+	font-size:18px;
+	font-family:'Lato', sans-serif;
+	text-align:center;
+}
+
+.corps3 h2 {
+	font-size:28px;
+	font-family: 'Lato-Light"', sans-serif;
+	color:#000000;
+	text-align:center;
+}
+
+.corps3 h3 {
+	padding-top:-5%;
+	font-size:24px;
+}
+
+.corps3 img {
+	padding-bottom:4%;
+	background-size:70%;
+}
+
+.corps3 p {
+	font-size:14px;
+	font-family:'Lato-Light';
+	color:#000000;
+	text-align:center;
+	color:#000000;
+}
+
+.v1 {
+	background: url(../img/1.PNG) no-repeat center center;
+	background-size: cover;
+	padding:10%;
+	color:white;
+	font-family: 'Lato', sans-serif;
+}
+
+.v2 {
+	background: url(../img/2.PNG) no-repeat center center;
+	background-size: cover;
+	padding:10%;
+	color:white;
+	font-family: 'Lato', sans-serif;
+}
+
+.v3 {
+	background: url(../img/3.PNG) no-repeat center center;
+	background-size: cover;
+	padding:10%;
+	color:white;
+	font-family: 'Lato', sans-serif;
+}
+
+.v4 {
+	background: url(../img/4.PNG) no-repeat center center;
+	background-size: cover;
+	padding:10%;
+	color:white;
+	font-family: 'Lato', sans-serif;
+}
+
+.v5 {
+	background: url(../img/5.PNG) no-repeat center center;
+	background-size: cover;
+	padding:10%;
+	color:white;
+	font-family: 'Lato', sans-serif;
+}
+
+.v6 {
+	background: url(../img/6.PNG) no-repeat center center;
+	background-size: cover;
+	padding:10%;
+	color:white;
+	font-family: 'Lato', sans-serif;
+	margin-bottom: 15%;
+}
+.bouton {
+
+	margin-top:15%;
+
+}
+
+.bouton a {
+  border-width: 2px;
+  border-color: rgb(60, 60, 60);
+  border-style: solid;
+  background-color: rgb(60, 60, 60);
+  position: absolute;
+  left: 9px;
+  top: 0px;
+  width: 391px;
+  height: 54px;
+  z-index: 26;
+  color:white;
+  font-family: 'Lato', sans-serif;
+  text-align:center;
+  padding-top:10px;
+  font-size:24px;
+  margin-left:30%;
+  margin-top:30%;
+}
+
+.bouton a:hover{
+		background:#ffffff;
+}
+
+
+.corps4 {
+	background: url(../img/cadre2.PNG) no-repeat center center;
+	background-position: center;
+	background-size: 100%;
+    min-height: 100%;
+    position:relative;
+    padding:10%;
+}
+
+.corps4 h2 {
+	font-size:38px;
+	font-family: 'Lato', sans-serif;
+	color:#000000;
+	text-align:center;
+	margin-top:-4%;
+	padding-bottom:5%;
+}
+
+.corps4 p {
+	font-size:18px;
+	font-family:'Lato', sans-serif;
+	color:#000000;
+	text-align:center;
+	line-height: 2;
+}
